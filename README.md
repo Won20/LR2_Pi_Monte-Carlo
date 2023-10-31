@@ -10,8 +10,9 @@
 
 # Реализация
 Вычисление числа Pi осуществляется с использованием вероятностного метода Монте-Карло. Алгоритм данного метода:
-![image](https://github.com/Won20/LR2_Pi_Monte-Carlo/assets/102918065/8fc7671f-42fd-4205-803f-bb6ae2a31587)
 ![image](https://github.com/Won20/LR2_Pi_Monte-Carlo/assets/102918065/174b7195-2125-476a-a83d-f9155d778b33)
+![image](https://github.com/Won20/LR2_Pi_Monte-Carlo/assets/102918065/a2d20db7-dc72-44df-86b0-ab0db5c48dd9)
+
 
 
 
